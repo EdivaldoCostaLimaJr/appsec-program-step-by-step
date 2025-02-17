@@ -6,15 +6,15 @@ Este repositório reúne minhas anotações e experiências sobre a estruturaç�
 ---
 ## Índice
 
-1. **Treinamento e conscientização** →
-2. **Levantamento de requisitos e Threat Modeling** →
-3. **Análise de Código** →
-4. **Segurança de Infraestrutura como Código** →
-5. **Monitoramento de APIs** →
-6. **Testes Dinâmicos de Segurança** →
-7. **Code Review e Pentest Manual** →
-8. **Monitoramento Contínuo e Resposta a Incidentes** →
-9. **Relatórios e Triagem de Vulnerabilidades** →
+1. **Treinamento e conscientização** 
+2. **Levantamento de requisitos e Threat Modeling** 
+3. **Análise de Código** 
+4. **Segurança de Infraestrutura como Código** 
+5. **Monitoramento de APIs** 
+6. **Testes Dinâmicos de Segurança** 
+7. **Code Review e Pentest Manual** 
+8. **Monitoramento Contínuo e Resposta a Incidentes** 
+9. **Relatórios e Triagem de Vulnerabilidades** 
 10. **Tratamento baseado em SLA**
 ---
 
