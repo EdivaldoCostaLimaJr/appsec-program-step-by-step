@@ -1,4 +1,4 @@
-# Documentação do Roadmap de um Programa de AppSec (Step-by-Step)
+# Programa de AppSec (Step-by-Step)
 
 ## Resumo
 Este repositório reúne minhas anotações e experiências sobre a estruturação básica de um programa de AppSec. Ele sugere ferramentas open-source para cada fase do processo e combina automação com verificações manuais. O objetivo é expandir esse modelo para um guia prático, servindo como ponto de partida para quem deseja iniciar na área. O resumo abaixo não abordará processos específicos de **Cloud Security**.
