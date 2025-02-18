@@ -19,6 +19,7 @@ Este repositório reúne minhas anotações e experiências sobre a estruturaç�
 11. **Acordo de Níveis de Serviço (SLA)**
 ---
 
+![app-sec](https://github.com/user-attachments/assets/941a2ec7-7bb1-4409-9a6f-980c592872f4)
 
 ## Esteira de Segurança no Desenvolvimento de Software
 
