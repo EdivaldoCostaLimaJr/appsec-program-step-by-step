@@ -22,6 +22,8 @@ Este repositório reúne minhas anotações e experiências sobre a estruturaç�
 
 ## Esteira de Segurança no Desenvolvimento de Software
 
+**⚡ Antes de iniciar o processo, é fundamental avaliar a criticidade do que está sendo desenvolvido. Isso permite determinar o nível de dedicação e energia necessários para os próximos passos, de acordo com essa avaliação.**
+
 ### 1. Avaliação da Maturidade da Empresa
 
 - Antes de iniciar a implementação do programa, é fundamental avaliar o nível de maturidade da empresa em segurança.
