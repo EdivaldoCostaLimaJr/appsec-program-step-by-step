@@ -138,6 +138,6 @@ Análise contínua de logs e eventos para detectar comportamentos anômalos e re
 
 
 
-**Última Atualização:** 07/05/2025
+**Última Atualização:** 07/04/2025
 
 
